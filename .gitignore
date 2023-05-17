@@ -1,3 +1,4 @@
 .cache
 *.json
+*.o
 quake_movement
